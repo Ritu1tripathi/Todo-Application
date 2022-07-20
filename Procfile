@@ -1,1 +1,1 @@
- web: ggunicorn app:app
+ web: gunicorn app:app
